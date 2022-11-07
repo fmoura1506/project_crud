@@ -4,7 +4,7 @@
         <div class="center">
             <form action={{ route('formulario.pesquisarForm') }} method="GET">
                 <div class="form-group">
-                    <label for="exampleInputEmail1">Digite o Formulário que deseja pesquisar</label>
+                    <label for="exampleInputEmail1">Digite o Formulário de contato que deseja pesquisar</label>
                     <br>
                     <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="search"
                     placeholder="Digite o ID ou a opção">

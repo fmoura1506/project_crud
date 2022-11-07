@@ -12,7 +12,7 @@
                 </div>
             </nav>
 
-<h1> Consulta de formulários </h1>
+<h1> Consulta formulários de contato </h1>
 
 <ul>
 @foreach ($index as $formulario )

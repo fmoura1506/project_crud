@@ -19,10 +19,7 @@
                   <a class="nav-link active" aria-current="page" href="{{route('login.index')}}">Login</a>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link active" href="{{route('login.create')}}">Cadastrar</a>
-                  </li>
-                  <li class="nav-item">
-                  <a class="nav-link active" href="{{route('formulario.create')}}">Formulário</a>
+                  <a class="nav-link active" href="{{route('formulario.create')}}">Formulário de Contato</a>
                   </li>
               </ul>
             </div>

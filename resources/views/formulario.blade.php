@@ -24,13 +24,13 @@
                     <a class="nav-link active" href="{{route('login.indexLogin')}}">Consultar Login</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="{{route('formulario.consulta')}}">Consultar Formularios</a>
+                    <a class="nav-link active" href="{{route('formulario.consulta')}}">Consultar Formularios de Contato</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link active" href="{{route('login.pesquisarLogin')}}">Pesquisar Login</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="{{route('formulario.pesquisarForm')}}">Pesquisar Formulario</a>
+                    <a class="nav-link active" href="{{route('formulario.pesquisarForm')}}">Pesquisar Formularios de Contato</a>
                 </li>
             </ul>
         </div>
